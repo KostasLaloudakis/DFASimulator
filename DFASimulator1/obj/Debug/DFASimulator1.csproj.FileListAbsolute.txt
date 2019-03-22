@@ -1,0 +1,7 @@
+C:\Users\Kostas Laloudakis\Source\Repos\DFASimulator1\DFASimulator1\bin\Debug\DFASimulator1.exe.config
+C:\Users\Kostas Laloudakis\Source\Repos\DFASimulator1\DFASimulator1\bin\Debug\DFASimulator1.exe
+C:\Users\Kostas Laloudakis\Source\Repos\DFASimulator1\DFASimulator1\bin\Debug\DFASimulator1.pdb
+C:\Users\Kostas Laloudakis\Source\Repos\DFASimulator1\DFASimulator1\obj\Debug\DFASimulator1.csprojAssemblyReference.cache
+C:\Users\Kostas Laloudakis\Source\Repos\DFASimulator1\DFASimulator1\obj\Debug\DFASimulator1.csproj.CoreCompileInputs.cache
+C:\Users\Kostas Laloudakis\Source\Repos\DFASimulator1\DFASimulator1\obj\Debug\DFASimulator1.exe
+C:\Users\Kostas Laloudakis\Source\Repos\DFASimulator1\DFASimulator1\obj\Debug\DFASimulator1.pdb
